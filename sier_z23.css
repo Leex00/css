@@ -1,0 +1,26 @@
+p#pogrubienie_sieradzki{
+    font-size:34px;
+    color:#7e5fd4;
+}
+p#pochylona_sieradzki{
+    font-size:39pt;
+    color:#e2c370;
+}
+p#index_gorny_sieradzki{
+    font-size:0,9cm;
+    color:#929120;
+}
+p#index_dolny_sieradzki{
+    font-size:2,3cm;
+    color: rgb(18%,96%,91%);
+}
+p#mono_sieradzki{
+    font-size:44px;
+    color:#12e170;
+}
+p#powiekszenie_sieradzki{
+    color: #4c41a2;
+}
+p#pomniejszenie_sieradzki{
+    color: rgb(69%, 65%, 24%);
+}
